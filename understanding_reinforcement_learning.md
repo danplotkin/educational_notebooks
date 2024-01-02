@@ -10,8 +10,6 @@ By the end of this course, you will have a strong understanding on what reinforc
 
 ## Prerequisites
 
-# Prerequisites for Reinforcement Learning Course
-
 Before starting the Reinforcement Learning course, it's recommended to have the following skills and knowledge:
 
 1. **Basic Programming Skills:** Proficiency in a Python.
