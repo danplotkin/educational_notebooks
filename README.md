@@ -14,7 +14,7 @@ Welcome to the Courses Repository! Here, you'll find various free courses on dif
     - Q-Learning and Deep Q-Learning
   - _**Part II: Implementing Reiforcement Learning in Python**_
   > Not Yet published
-  > 
+
 ## How to Use
 
 - Click on the course titles to explore the course content.
