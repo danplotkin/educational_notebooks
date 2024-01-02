@@ -13,7 +13,7 @@ Welcome to the Courses Repository! Here, you'll find various free courses on dif
     - Markov Decision Processes (MDP)
     - Q-Learning and Deep Q-Learning
   - _**Part II: Implementing Reiforcement Learning in Python**_
-  > Not Yet published
+    > Not Yet published
 
 ## How to Use
 
