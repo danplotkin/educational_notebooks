@@ -4,7 +4,7 @@ Welcome to the Courses Repository! Here, you'll find various free courses on dif
 
 ## Available Courses
 
-### [Understanding Reinforcement Learning](./Reinforcement_Learning)
+### [Understanding Reinforcement Learning](./understanding_reinforcement_learning.md)
 
 - Explore the fundamentals of Reinforcement Learning.
 - Topics covered:
@@ -14,6 +14,7 @@ Welcome to the Courses Repository! Here, you'll find various free courses on dif
     - Q-Learning and Deep Q-Learning
   - _**Part II: Implementing Reiforcement Learning in Python**_
   > Not Yet published
+  > 
 ## How to Use
 
 - Click on the course titles to explore the course content.
