@@ -3,7 +3,8 @@
 ## Course Modules:
 
 [Part I: Mastering Reinforcement Learning Conceptually](https://colab.research.google.com/drive/18r2YVIozch2R_grvmowtUslgKPYZEXfT?usp=sharing)
-[Part 2: Part II: Implementing Reiforcement Learning in Python (*Not yet published*)]
+
+Part 2: Part II: Implementing Reiforcement Learning in Python (*Not yet published*)
 
 ## About
 Welcome to my course *Understanding Reinforcement Learning*! This course will be split up into two parts:
