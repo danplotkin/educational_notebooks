@@ -8,7 +8,7 @@ Welcome to the Courses Repository! Here, you'll find various free courses on dif
 
 - Explore the fundamentals of Reinforcement Learning.
 - Topics covered:
-  - _**Part I: Mastering Reiforcement Learning Conceptually**_ 
+  - _**Part I: Theory and Math**_ 
     - Introduction to RL
     - Markov Decision Processes (MDP)
     - Q-Learning and Deep Q-Learning
