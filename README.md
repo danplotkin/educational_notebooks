@@ -4,7 +4,7 @@ Welcome to the Courses Repository! Here, you'll find various free courses on dif
 
 ## Available Courses
 
-### [Understanding Reinforcement Learning](./understanding_reinforcement_learning.md)
+### [Understanding Reinforcement Learning](https://github.com/danplotkin/understanding_rl/tree/main?tab=readme-ov-file#understanding-reinforcement-learning)
 
 - Explore the fundamentals of Reinforcement Learning.
 - Topics covered:
