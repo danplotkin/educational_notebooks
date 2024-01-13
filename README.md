@@ -12,7 +12,7 @@ Welcome to the Courses Repository! Here, you'll find various free courses on dif
     - Introduction to RL
     - Markov Decision Processes (MDP)
     - Q-Learning and Deep Q-Learning
-  - _**Part II: Implementing Reiforcement Learning in Python**_
+  - _**Part II: Implementing Reinforcement Learning in Python**_
     - Introduction to Gymnasium
     - Implementing and training a DQN using PyTorch to play Cart Pole.
 
