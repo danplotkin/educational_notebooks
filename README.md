@@ -4,7 +4,7 @@ Welcome to the Educational Notebook Repository! Here, you'll find various free c
 
 ## All Notebooks
 
-### [Mastering Reinforcement Learning: Theory, Math, and Python](https://github.com/danplotkin/mastering_rl/tree/main?tab=readme-ov-file#understanding-reinforcement-learning)
+### [Mastering Reinforcement Learning: Theory, Math, and Python](https://github.com/danplotkin/educational_notebooks/tree/main/reinforcement_learning)
 
 - Explore the fundamentals of Reinforcement Learning.
 - Topics covered:
