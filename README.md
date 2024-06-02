@@ -1,8 +1,8 @@
 # Notebook Repository
 
-Welcome to the Educational Notebook Repository! Here, you'll find various free courses on different topics. Dive into the world of learning with our available courses:
+Welcome to the Educational Notebook Repository! Here, you'll find various free courses on different topics. Dive into the world of learning with the available notebooks:
 
-## Available Notebooks
+## All Notebooks
 
 ### [Mastering Reinforcement Learning: Theory, Math, and Python](https://github.com/danplotkin/mastering_rl/tree/main?tab=readme-ov-file#understanding-reinforcement-learning)
 
