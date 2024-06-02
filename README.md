@@ -15,6 +15,15 @@ Welcome to the Educational Notebook Repository! Here, you'll find various free c
   - _**Part II: Implementing Reinforcement Learning in Python**_
     - Introduction to Gymnasium
     - Implementing and training a DQN using PyTorch to play Cart Pole.
+   
+### [Fundamentals of Feed-Forward Neural Networks: A Practical Introduction to Deep Learning](https://github.com/danplotkin/educational_notebooks/tree/main/deep_learning_foundations)
+
+- Dive into the foundations of Deep Learning.
+- Topics covered:
+  - Introduction to Deep Learning and Feed-Forward Networks (FFN)
+  - Training of a FFN
+  - Activation Functions
+  - Neural Network challenges and solutions
 
 ## How to Use
 
