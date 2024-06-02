@@ -2,7 +2,7 @@
 
 ## Notebooks
 
-[*Part I: Theory and Math*](https://colab.research.google.com/github/danplotkin/mastering_rl/blob/main/mastering_rl_part1.ipynb)
+[*Part I: Theory and Math*](https://colab.research.google.com/github/danplotkin/educational_notebooks/blob/main/reinforcement_learning/mastering_rl_part1.ipynb)
 <details>
    <summary>&nbsp;Show table of contents</summary>
 &nbsp;
