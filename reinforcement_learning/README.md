@@ -112,7 +112,7 @@
 > 10 - Next Steps
 </details>
 
-[*Part II: Implementing Reinforcement Learning in Python*](https://colab.research.google.com/github/danplotkin/mastering_rl/blob/main/mastering_rl_part2.ipynb)
+[*Part II: Implementing Reinforcement Learning in Python*](https://colab.research.google.com/github/danplotkin/educational_notebooks/blob/main/reinforcement_learning/mastering_rl_part2.ipynb)
 
 <details>
    <summary>&nbsp;Show table of contents</summary>
