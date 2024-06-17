@@ -109,7 +109,7 @@
 
 ## About
 
-In this notebook, we will talk about the difference between Deep Learning and Machine Learning, we will talk about the architecture of a Feed-Forward Network (FFN), the algorithms to train one, and some of the challenges in Deep Learning training.
+In this notebook, we will talk about the difference between Deep Learning and Machine Learning, we will talk about the architecture of an Artificial Neural Network (ANN), the algorithms to train one, and some of the challenges in Deep Learning training.
 
 ## Prerequisits
 
