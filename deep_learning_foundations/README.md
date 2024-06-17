@@ -119,6 +119,6 @@ This notebook requires you understand:
 2) Basic Machine Learning (ML) Concepts:
      - Train vs Validation vs Test set
      - What is supervised learning?
-     - What is the use-cases for ML?
+     - What are the use-cases for ML?
 3) Understanding basic Calculus and/or Linear Algebra is a plus.
 
